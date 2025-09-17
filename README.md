@@ -1,22 +1,17 @@
 ## Automobile Sales Forecasting: A Business Intelligence Case Study
 
 ### Background
-A research project conducted as part of my MSc in Behavioral Economics and Decision Science. The study was based on a Kaggle dataset framed as a consulting-style case, where an Indian automobile company (XYZ) planned to enter the local used-car market. The project investigated how advanced data analytics and visualization techniques could be applied to forecast automobile sales trends and provide insights to guide market entry and competitive positioning.
+A research project conducted as part of my MSc in Behavioral Economics and Decision Science. The study was based on a Kaggle dataset framed as a consulting-style case, where an Indian automobile company (XYZ) planned to enter the local used-car market. The dataset spans **1994 to 2020**, allowing for long-term trend analysis. The project investigated how advanced data analytics and visualization techniques could be applied to forecast automobile sales trends and provide insights to guide market entry and competitive positioning.
 
 ### Research Question
 - What factors influence used-car sales across brands, fuel types, locations, and ownership histories?  
 - How can data visualization and forecasting techniques inform pricing and sales strategies in the automotive industry? 
 
-### Key Skills
-- **Data Visualization** (Tableau)  
-- **Data Cleaning & Wrangling** (Microsoft Excel)  
-- **Forecasting & Trend Analysis**  
-- **Business Intelligence & Strategic Decision-Making**  
-
-### Methods 
+ ### Methods 
 #### Dataset Overview
 - The data used for this project was sourced from the [Used Car Data - Kaggle](https://www.kaggle.com/datasets/shubham1kumar/usedcar-data?select=UserCarData.csv).
 - The dataset was originally collected by a consulting firm to analyze the Indian used-car market, and contained details such as brand, year, mileage, selling price, ownership type, fuel type, and sales outcome.
+- **Time span:** The dataset covers the period from **1994 to 2020**, enabling long-term trend and forecasting analysis.
 
 #### Tools
 Tableau, Excel
@@ -29,7 +24,13 @@ Tableau, Excel
 *Assuming mileage as kilometers and currency as USD would enable more grounded business recommendations, though explicit confirmation was not available in the dataset.* 
 
 #### Analysis
-Exploratory Data Analysis (EDA), demand forecasting, comparative trend analysis.  
+Exploratory Data Analysis (EDA), demand forecasting, comparative trend analysis.
+
+### Key Skills
+- **Data Visualization** (Tableau)  
+- **Data Cleaning & Wrangling** (Microsoft Excel)  
+- **Forecasting & Trend Analysis**  
+- **Business Intelligence & Strategic Decision-Making** 
 
 ### Key Findings & Visualizations
 #### Top Selling Brands
