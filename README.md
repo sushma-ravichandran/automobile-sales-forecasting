@@ -1,7 +1,7 @@
 ## Automobile Sales Forecasting: A Business Intelligence Case Study
 
 ### Background
-A research project conducted as part of my MSc in Behavioral Economics and Decision Science. The study was based on a Kaggle dataset framed as a consulting-style case, where an Indian automobile company (XYZ) planned to enter the local used-car market. The project investigated how advanced data analytics and visualization techniques could be applied to forecast automotive sales trends and provide insights to guide market entry and competitive positioning.
+A research project conducted as part of my MSc in Behavioral Economics and Decision Science. The study was based on a Kaggle dataset framed as a consulting-style case, where an Indian automobile company (XYZ) planned to enter the local used-car market. The project investigated how advanced data analytics and visualization techniques could be applied to forecast automobile sales trends and provide insights to guide market entry and competitive positioning.
 
 ### Research Question
 - What factors influence used-car sales across brands, fuel types, locations, and ownership histories?  
@@ -37,7 +37,7 @@ Exploratory Data Analysis (EDA), demand forecasting, comparative trend analysis.
 - Maruti, Hyundai, and Mahindra cars had the highest sales volumes, making them prime candidates for investment.  
 
 #### Fuel Type Preferences
-![Fuel Type Sales](images/fuel_type_sales.png)  
+![Fuel Type Sales](images/fuel_type_preferences.png)  
 - Diesel cars dominated sales (1,051 sold), followed by petrol (933 sold), highlighting cost-conscious consumer behavior.  
 
 #### Ownership vs Price
@@ -45,7 +45,7 @@ Exploratory Data Analysis (EDA), demand forecasting, comparative trend analysis.
 - First-owner cars commanded the highest sales volumes (1,325 sold) and higher average prices, signaling strong buyer trust.  
 
 #### Yearly Sales Trend
-![Sales Trends](images/sales_trends.png)  
+![Sales Trends](images/yearly_sales_trends.png)  
 - Sales volume declined sharply after 2017 despite stable prices, suggesting market saturation, rising prices, or dataset limitations.  
 - By 2020, sales dropped drastically (to only 19 cars), likely compounded by the COVID-19 pandemic.  
 
