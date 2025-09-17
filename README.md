@@ -37,11 +37,13 @@ Exploratory Data Analysis (EDA), demand forecasting, comparative trend analysis.
 - Maruti, Hyundai, and Mahindra cars had the highest sales volumes, making them prime candidates for investment.  
 
 #### Fuel Type Preferences
-![Fuel Type Sales](images/fuel_type_preferences.png)  
+<img src="images/fuel_type_preferences.png" width="500" />
+
 - Diesel cars dominated sales (1,051 sold), followed by petrol (933 sold), highlighting cost-conscious consumer behavior.  
 
 #### Ownership vs Price
-![Ownership vs Price](images/ownership_vs_price.png)  
+<img src="images/ownership_vs_price.png" width="500" />
+
 - First-owner cars commanded the highest sales volumes (1,325 sold) and higher average prices, signaling strong buyer trust.  
 
 #### Yearly Sales Trend
